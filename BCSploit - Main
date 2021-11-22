@@ -482,7 +482,7 @@ Els.TextScaled = true
 Els.TextSize = 14.000
 Els.TextWrapped = true
 Els.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/el0001/DHMarket/main/cutescript%27))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/el0001/DHMarket/main/cutescript'))()
 end)
 
 ImageLabel.Parent = Main
